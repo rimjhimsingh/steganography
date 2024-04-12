@@ -12,8 +12,8 @@ To use this program, run the following command in your terminal:
 
 python steganography_decoder.py input_file.bmp output_file
 
-**input_file.bmp:** The BMP file from which you want to extract hidden data.
-**output_file:** The file where the extracted data will be saved.
+**aliceStego.bmp:** The BMP file from which you want to extract hidden data.
+**output.pdf:** The file where the extracted data will be saved.
 
 ## Requirements
 Python 3
